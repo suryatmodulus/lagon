@@ -1,5 +1,15 @@
 # @lagon/cli
 
+## 0.3.0
+
+### Minor Changes
+
+- [#189](https://github.com/lagonapp/lagon/pull/189) [`77a7218`](https://github.com/lagonapp/lagon/commit/77a7218801cd7bd99ba388fcb064e81d5204e487) Thanks [@QuiiBz](https://github.com/QuiiBz)! - Add lagon dev command
+
+### Patch Changes
+
+- [#185](https://github.com/lagonapp/lagon/pull/185) [`d40f143`](https://github.com/lagonapp/lagon/commit/d40f143aa8836a3867f7a501bcd76322889c4a2b) Thanks [@QuiiBz](https://github.com/QuiiBz)! - Beautify errors
+
 ## 0.2.0
 
 ### Minor Changes
